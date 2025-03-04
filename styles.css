@@ -1,0 +1,15 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #1a1a1b;
+    color: #eeeeee;
+    padding: 2rem;
+    margin-bottom: 10rem;
+}
+
+a {
+    color: #95c0ff;
+}
+
+img {
+    border-radius: 2rem;
+}
